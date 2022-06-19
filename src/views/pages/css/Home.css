@@ -1,0 +1,22 @@
+.container-home{
+    background-color: #44475a;
+    display:inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+
+    
+   
+    
+
+}
+
+#item-banner{
+    width:70%;
+    border-radius: 1.5%;
+    margin-top: 5%;
+    margin-bottom: 10%;
+
+    
+}
