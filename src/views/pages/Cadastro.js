@@ -14,6 +14,7 @@ const Cadastro = () => {
                         <input id='cadastro-senha'type="password" placeholder='Criar uma senha' />
                         <input id='cadastro-senha'type="password" placeholder='Repetir sua senha' />
                         <br />
+                        <input id="cadastro-submit" type="submit" class="enviar" value="Cadastrar"  />
 						
                 
                     </form>
